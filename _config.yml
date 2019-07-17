@@ -1,25 +1,24 @@
 # Site settings
-title: rookflying's blog
-SEOTitle: rookflying's blog
+title: joneszero's blog
+SEOTitle: joneszero's blog
 header-img: img/home.jpg
-email: cpeng2424@163.com
-description: "Somebody has to win"
-keyword: "rookflying"
-url: "https://rookflying.com"          # your host, for absolute URL
+email: 
+description: "Make you stronger"
+keyword: "joneszero"
+url: "https://joneszero.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/rookflying/rookflying.github.io.git" # you code repository
+github_repo: "https://github.com/Joneszero/Joneszero.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Somebody has to win"
-sidebar-avatar: /img/avatar.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Make you stronger"
+sidebar-avatar: /img/J.Cole.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-github_username:        rookflying
-codeforces_username:    DamJoker
+github_username:        Joneszero
 
 
 
@@ -62,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 0264aff17f1da521fcd6                         #生成的clientID
-  clientSecret: a0dbfa1bddbfc22b77416235ebccd6975f62af05    #生成的clientSecret
-  repo: rookflying.github.io    #仓库名称
-  owner: rookflying    #github用户名
-  admin: rookflying
+  clientID: f0e832476b9f4077b307                        #生成的clientID
+  clientSecret:     ae8c0a681dd9a808cb4abcae4c683db46f521f33    #生成的clientSecret
+  repo: Joneszero.github.io    #仓库名称
+  owner: Joneszero    #github用户名
+  admin: Joneszero
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +77,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-131003745-1'            # Format: UA-xxxxxx-xx
-ga_domain: rookflying.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
