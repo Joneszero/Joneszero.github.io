@@ -93,4 +93,6 @@ featured-condition-size: 0              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
+# 百度统计
+baidu-analysis： b09ad66b957203b8f91cb1e1bcb1f082
 
