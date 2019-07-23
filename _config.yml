@@ -79,7 +79,8 @@ gitalk:
 ga_track_id: 'UA-131003745-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
-
+# 百度统计
+baidu_analysis: b09ad66b957203b8f91cb1e1bcb1f082
 
 
 
@@ -92,7 +93,4 @@ featured-condition-size: 0              # 相同标签数量大于这个数，�
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-# 百度统计
-baidu-analysis： b09ad66b957203b8f91cb1e1bcb1f082
 
